@@ -1,0 +1,50 @@
+C: \ Usuários \ Eulim> Git Config -Global User.Name "EUSEBIOJAVA"
+
+C: \ Usuários \ Eulim> Git Config -Global User.Email elmatos@gmail.com
+
+C: \ Usuários \ Eulim> Git ajuda
+Uso: git [-v | --version] [-h | --help] [-c <tath>] [-c <name> = <valor>]
+            [--exec-pat [= <tath>]] [--html-path] [--man-path] [--info-path]
+            [-p | -Paginar | -P | --não-pager] [--no-replace-objects] [--bare]
+            [--git-dir = <tath>] [--work-tree = <tath>] [--namespace = <name>]
+            [--super-prefix = <tath>] [---config-env = <name> = <indevar>]
+            <comando> [<gs>]
+
+Estes são comandos Git comuns usados em várias situações:
+
+Inicie uma área de trabalho (veja também: Tutorial do Git Help)
+    Clone 		clone um repositório em um novo diretório
+    init		crie um repositório Git vazio ou reinicialize um existente
+
+Trabalhe sobre a mudança atual (veja também: Ajuda Git todos os dias)
+    add 		Adicionar conteúdo de arquivo ao índice
+    MV 		move ou renomeie um arquivo, um diretório ou um symblink
+    restore 	Restaura os arquivos de árvore de trabalho de restauração
+    RM 		Remova os arquivos da árvore de trabalho e do índice
+
+Examine a história e o estado (veja também: Git Ajuda revisões)
+    bisect 		Use pesquisa binária para encontrar o compromisso que introduziu um bug
+    diff		mostram mudanças entre commits, comprometimento e árvore de trabalho, etc.
+    grep 		print de impressão grep correspondendo a um padrão
+    Log 		Show Commit Logs
+    show 		mostra vários tipos de objetos
+    Status 		Mostra o status da árvore de trabalho
+
+crescer, marcar e ajustar sua história comum
+    branch		Lista de ramificação, criar ou excluir ramos
+    commit		alterações de registro no repositório
+    merge		mesclar junte -se a duas ou mais histórias de desenvolvimento
+    rebase 		reaplicar o cometido no topo de outra dica de base
+    reset 		redefinir a cabeça atual para o estado especificado
+    switch 		Switch Branches
+    Tag		 Create, List, exclua ou verifique um objeto de tag assinado com GPG
+
+Colaborar (veja também: Git Help Work Flows)
+    fetch 		Download Objetos e Refs de outro repositório
+    pull 		buscar e integrar -se a outro repositório ou uma filial local
+    push 		atualizacao remotos de atualização junto com objetos associados
+
+'Git ajuda -a' e 'Git help -g' Lista de subcomando disponíveis e alguns
+guias conceituais. Consulte 'Git Help <command>' ou 'git help <conceitu>'
+ler sobre um subcomando ou conceito específico.
+Consulte 'Git Help Git' para uma visão geral do sistema.

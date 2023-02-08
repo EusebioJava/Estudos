@@ -1,0 +1,12 @@
+PS C:\Users\eulim\OneDrive\Documentos\Git> git remote add origin https://github.com/EusebioJava/Estudos.git
+PS C:\Users\eulim\OneDrive\Documentos\Git> git remote -v
+origin  https://github.com/EusebioJava/Estudos.git (fetch)
+origin  https://github.com/EusebioJava/Estudos.git (push)
+PS C:\Users\eulim\OneDrive\Documentos\Git
+
+
+
+
+
+Obs:origin -> apontando onde esta o diretorio no GitHub
+    local  -> eh o diretorio local, na maquina atual
